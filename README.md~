@@ -1,3 +1,1 @@
-# examples
-# code_examples
-# code_examples
+#Данный код используются на создающемся проекте http://tilesset.e3.4exc.ru/.
