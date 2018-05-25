@@ -10,6 +10,8 @@ use S3\Type;
 exit;
 
 
+last
+
 /** @noinspection PhpIncludeInspection */
 require_once ($_SERVER['DOCUMENT_ROOT'].'/../s3/bootstrap.php');
 
